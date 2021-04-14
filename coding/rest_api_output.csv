@@ -1,0 +1,647 @@
+,Name,Company,Country
+0,Velobike,['ЗАО «СитиБайк»'],RU
+1,Bycyklen,['Gobike A/S'],DK
+2,Nu-Connect,['Gobike A/S'],NL
+3,Bysykkel,['Urban Infrastructure Partner'],NO
+4,Bysykkelen,['Gobike A/S'],NO
+5,Onroll,['Domoblue'],ES
+6,Onroll,['Domoblue'],ES
+7,Onroll,['Domoblue'],ES
+8,Onroll,['Domoblue'],ES
+9,Onroll,['Domoblue'],ES
+10,Onroll,['Domoblue'],ES
+11,Onroll,['Domoblue'],ES
+12,Onroll,['Domoblue'],ES
+13,Onroll,['Domoblue'],ES
+14,Onroll,['Domoblue'],ES
+15,Onroll,['Domoblue'],ES
+16,Onroll,['Domoblue'],ES
+17,Onroll,['Domoblue'],ES
+18,Onroll,['Domoblue'],ES
+19,Onroll,['Domoblue'],ES
+20,Onroll,['Domoblue'],ES
+21,Onroll,['Domoblue'],ES
+22,Onroll,['Domoblue'],ES
+23,Onroll,['Domoblue'],ES
+24,Onroll,['Domoblue'],ES
+25,Onroll,['Domoblue'],ES
+26,Onroll,['Domoblue'],ES
+27,Onroll,['Domoblue'],ES
+28,Onroll,['Domoblue'],ES
+29,Onroll,['Domoblue'],ES
+30,Onroll,['Domoblue'],ES
+31,Onroll,['Domoblue'],ES
+32,Onroll,['Domoblue'],ES
+33,Onroll,['Domoblue'],ES
+34,Onroll,['Domoblue'],ES
+35,Onroll,['Domoblue'],ES
+36,Onroll,['Domoblue'],ES
+37,Onroll,['Domoblue'],ES
+38,Onroll,['Domoblue'],ES
+39,Onroll,['Domoblue'],ES
+40,Onroll,['Domoblue'],ES
+41,Onroll,['Domoblue'],ES
+42,Onroll,['Domoblue'],ES
+43,Onroll,['Domoblue'],ES
+44,Bicincittà,['Comunicare S.r.l.'],IT
+45,Onroll Via Verde,['Domoblue'],ES
+46,Onroll,['Domoblue'],ES
+47,Onroll,['Domoblue'],ES
+48,Cyclopolis,['Cyclopolis Systems'],GR
+49,Cycle Hire,"['Groundwork', 'Slough Borough Council', 'ITS']",GB
+50,Cyclopolis,['Cyclopolis Systems'],GR
+51,Bicincittà,['Comunicare S.r.l.'],IT
+52,Cyclopolis,['Cyclopolis Systems'],GR
+53,Cyclopolis,['Cyclopolis Systems'],GR
+54,Bicincittà,['Comunicare S.r.l.'],IT
+55,Cyclopolis,['Cyclopolis Systems'],GR
+56,Cyclopolis,['Cyclopolis Systems'],GR
+57,Cyclopolis,['Cyclopolis Systems'],GR
+58,Cyclopolis,['Cyclopolis Systems'],GR
+59,Bicincittà,['Comunicare S.r.l.'],IT
+60,Cyclopolis,['Cyclopolis Systems'],GR
+61,Cyclopolis,['Cyclopolis Systems'],GR
+62,Bicincittà,['Comunicare S.r.l.'],IT
+63,Cyclopolis,['Cyclopolis Systems'],GR
+64,Bicincittà,['Comunicare S.r.l.'],IT
+65,Bicincittà,['Comunicare S.r.l.'],IT
+66,Bicincittà,['Comunicare S.r.l.'],IT
+67,Coca-Cola Zero® Bikes,['The National Transport Authority'],IE
+68,Coca-Cola Zero® Bikes,['The National Transport Authority'],IE
+69,Pun Pun Bike Share,['BTS Group Holdings'],TH
+70,Coca-Cola Zero® Bikes,['The National Transport Authority'],IE
+71,BBBike,['Bike U Sp. z o.o.'],PL
+72,Bicincittà,['Comunicare S.r.l.'],IT
+73,Bydgoski rower aglomeracyjny,['Bike U Sp. z o.o.'],PL
+74,Santander Cycles,"['PBSC', 'Serco Group plc']",GB
+75,WE-cycle,"['PBSC', 'Alta Bicycle Share, Inc']",US
+76,Bicincittà,['Comunicare S.r.l.'],IT
+77,WOW Citybike,"['PBSC', 'Alta Bicycle Share, Inc']",IS
+78,StadtRAD Hamburg',['Transparenzportal Hamburg'],DE
+79,Tigullionbike,['Comunicare S.r.l.'],IT
+80,ARbike,['Comunicare S.r.l.'],IT
+81,Velobike,"['Velobike.kz, LLP', 'Smoove']",KZ
+82,Velib' Métropôle,['Smovengo'],FR
+83,Ascoli Piceno,['Comunicare S.r.l.'],IT
+84,BiGi,['Comunicare S.r.l.'],IT
+85,Girocleta,['ICNITA S.L.'],ES
+86,Alba,['Comunicare S.r.l.'],IT
+87,BikeMi,['ClearChannel'],IT
+88,Biella,['Comunicare S.r.l.'],IT
+89,Chivasso,['Comunicare S.r.l.'],IT
+90,Bizi,['ClearChannel'],ES
+91,EcoBici,['ClearChannel'],MX
+92,Bici in Busto,['Comunicare S.r.l.'],IT
+93,Velo Antwerpen,['ClearChannel'],BE
+94,Cuneo,['Comunicare S.r.l.'],IT
+95,Malmö by bike,['ClearChannel'],SE
+96,Bici las Condes,['ClearChannel'],CL
+97,BiciMAD,"Empresa Municipal de Transportes de Madrid, S.A.",ES
+98,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+99,FRee Bike sharing,['Comunicare S.r.l.'],IT
+100,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+101,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+102,lecce,['Comunicare S.r.l.'],IT
+103,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+104,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+105,Manerba in Bici,['Comunicare S.r.l.'],IT
+106,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+107,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+108,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+109,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+110,Mar e Bici,['Comunicare S.r.l.'],IT
+111,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+112,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+113,Novara,['Comunicare S.r.l.'],IT
+114,EasyBike,"['Brainbox Technology', 'Smoove SAS']",CY
+115,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+116,EasyBike,"['Brainbox Technology', 'Smoove SAS']",GR
+117,ThessBike,"['Brainbox Technology', 'Smoove SAS']",GR
+118,AthensBikes,"['Brainbox Technology', 'Smoove SAS']",GR
+119,GoodBike,['Comunicare S.r.l.'],IT
+120,CicloSampa,['PegBike'],BR
+121,Bicicoruña,['Tuimil S.A.'],ES
+122,BiciFerrolTerra,['Tuimil S.A.'],ES
+123,Curtin Bike Share,['Social Bicycles Inc.'],AU
+124,Monash BikeShare,['Social Bicycles Inc.'],AU
+125,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+126,Bixi,"['Motivate International, Inc.', 'PBSC Urban Solutions', 'BIXI Montréal']",CA
+127,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+128,Bike Share Toronto,"['Motivate International, Inc.', 'PBSC Urban Solutions']",CA
+129,SoBi,['Social Bicycles Inc.'],CA
+130,VeloGO,"['CycleHop, LLC', 'Social Bicycles Inc.']",CA
+131,ArborBike,"['Clean Energy Coalition', 'BCycle, LLC']",US
+132,Pavia in bici,['Comunicare S.r.l.'],IT
+133,Bici Perugia,['Comunicare S.r.l.'],IT
+134,Austin B-cycle,"['BCycle, LLC']",US
+135,Bike Chattanooga,"['Motivate International, Inc', 'PBSC']",US
+136,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+137,Pinerolo,['Comunicare S.r.l.'],IT
+138,BIKETOWN,"['Portland Bureau of Transportation (PBOT)', 'Motivate International, Inc', 'Social Bicycles Inc.']",US
+139,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+140,BRiteBikes,"['CycleHop, LLC', 'Social Bicycles Inc.']",US
+141,Boise GreenBike,"['ValleyRide', 'Social Bicycles Inc.']",US
+142,Boulder B-cycle,"['BCycle, LLC']",US
+143,Breeze Bike Share,"['CycleHop, LLC', 'Social Bicycles Inc.']",US
+144,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+145,Broward B-cycle,"['BCycle, LLC']",US
+146,Bublr Bikes,"['BCycle, LLC']",US
+147,Reddy Bike Share,"['Shared Mobility Inc.', 'Social Bicycles Inc.']",US
+148,Capital BikeShare,"['Motivate International, Inc.', 'PBSC Urban Solutions']",US
+149,Charlotte B-cycle,"['BCycle, LLC']",US
+150,Saluzzo,['Comunicare S.r.l.'],IT
+151,Cincy Red Bike,"['BCycle, LLC']",US
+152,Savigliano,['Comunicare S.r.l.'],IT
+153,Citi Bike,"['NYC Bike Share, LLC', 'Motivate International, Inc.', 'PBSC Urban Solutions']",US
+154,Coast Bike Share,"['CycleHop, LLC', 'Social Bicycles Inc.']",US
+155,Terni,['Comunicare S.r.l.'],IT
+156,CoGo,"['Motivate International, Inc.', 'PBSC Urban Solutions']",US
+157,Denver B-cycle,"['BCycle, LLC']",US
+158,Divvy,"['Motivate International, Inc.', 'PBSC Urban Solutions']",US
+159,Tirano in Bici,['Comunicare S.r.l.'],IT
+160,El Paso B-cycle,"['BCycle, LLC']",US
+161,Fort Worth Bike Sharing,"['BCycle, LLC']",US
+162,Udine,['Comunicare S.r.l.'],IT
+163,Great Rides Bike Share,"['BCycle, LLC']",US
+164,GREENbike,"['BCycle, LLC']",US
+165,Grid Bike Share,"['CycleHop, LLC', 'Social Bicycles Inc.']",US
+166,Heartland B-cycle,"['BCycle, LLC']",US
+167,Houston B-cycle,"['BCycle, LLC']",US
+168,Blue Bikes,"['Motivate International, Inc.', 'PBSC Urban Solutions']",US
+169,Ustica,['Comunicare S.r.l.'],IT
+170,Indego,"['City of Philadelphia', 'Bicycle Transit Systems', 'BCycle, LLC']",US
+171,Indiana Pacers Bikeshare,"['BCycle, LLC']",US
+172,Juice,"['CycleHop, LLC', 'Social Bicycles Inc.']",US
+173,BICI&CO,['Comunicare S.r.l.'],IT
+174,B-cycle,"['BCycle, LLC']",US
+175,Link,"['BCycle, LLC']",US
+176,B-cycle,"['BCycle, LLC']",US
+177,Metro Bike Share,"['Los Angeles County Metropolitan Transportation Authority (Metro)', 'Bicycle Transit Systems', 'BCycle, LLC']",US
+178,Mountain Rides Bike Share,"['Mountain Rides', 'Social Bicycles Inc.']",US
+179,Nice Ride,['Nice Ride Minnesota'],US
+180,Speziainbici,['Comunicare S.r.l.'],IT
+181,SWell Cycle,"['BCycle, LLC']",US
+182,Share-a-Bull Bikes,['Social Bicycles Inc.'],US
+183,Venezia,['Comunicare S.r.l.'],IT
+184,SoBi,['Social Bicycles Inc.'],US
+185,Spartanburg BCycle,"['BCycle, LLC']",US
+186,Topeka Metro Bikes,"['Topeka Metropolitan Transit Authority', 'Social Bicycles Inc.']",US
+187,[TO]BIKE,['Comunicare S.r.l.'],IT
+188,UBike,['Social Bicycles Inc.'],US
+189,Bay Wheels,"['Motivate International, Inc.']",US
+190,Relay Bike Share,"['CycleHop, LLC', 'Social Bicycles Inc']",US
+191,BikeRecife,"['Tembici', 'PBSC Urban Solutions']",BR
+192,BikeSampa,"['Tembici', 'PBSC Urban Solutions']",BR
+193,BikeRio,"['Tembici', 'PBSC Urban Solutions']",BR
+194,BikeSalvador,"['Tembici', 'PBSC Urban Solutions']",BR
+195,BikePOA,"['Tembici', 'PBSC Urban Solutions']",BR
+196,MIBICI,"['BKT bici publica S.A. de C.V.', 'PBSC Urban Solutions']",MX
+197,Just Eat Cycles,"['Your Bike', 'Urban Sharing']",UK
+198,Melbourne Bike Share,"['PBSC', 'Alta Bicycle Share, Inc']",AU
+199,Libélo,['PBSC Urban Solutions'],FR
+200,BikeSantiago,"['Tembici', 'PBSC Urban Solutions']",CL
+201,Bysykkel,,NO
+202,Bysykkel,,NO
+203,Bysykkel,,NO
+204,LE vélo Star,"['Keolis', 'Rennes Metropole']",FR
+205,V³,['Keolis Bordeaux Métropole'],FR
+206,V'lille,['Keolis'],FR
+207,IDECycle,"['Keolis', 'STAP']",FR
+208,Bicialtea,['Labici Bicicletas Públicas SL'],ES
+209,Bicidorm,['Labici Bicicletas Públicas SL'],ES
+210,SaforBici,['Labici Bicicletas Públicas SL'],ES
+211,Ciclopi,['Comunicare S.r.l.'],IT
+212,Gbici,['Labici Bicicletas Públicas SL'],ES
+213,MuyBici,['Labici Bicicletas Públicas SL'],ES
+214,PonfeMobi,['Labici Bicicletas Públicas SL'],ES
+215,VaiBike,['Labici Bicicletas Públicas SL'],ES
+216,Cagliari,['Comunicare S.r.l.'],IT
+217,Ecobici,['Buenos Aires Ciudad'],AR
+218,Gira,['EMEL'],PT
+219,Gimme Bike,['Comunicare S.r.l.'],IT
+220,cy'clic,['JCDecaux'],FR
+221,Vélô,['JCDecaux'],FR
+222,Veloh,['JCDecaux'],LU
+223,Valenbisi,['JCDecaux'],ES
+224,Sellero,['Comunicare S.r.l.'],IT
+225,Styr & Ställ,['JCDecaux'],SE
+226,Lundahoj,['JCDecaux'],SE
+227,Ugento,['Comunicare S.r.l.'],IT
+228,Tusbic,['JCDecaux'],ES
+229,Velam,['JCDecaux'],FR
+230,Bysykkel,['JCDecaux'],NO
+231,VéloCité,['JCDecaux'],FR
+232,Prata Camportaccio,['Comunicare S.r.l.'],IT
+233,Vélo'V,['JCDecaux'],FR
+234,Bicikelj,['JCDecaux'],SI
+235,Civitavecchia,['Comunicare S.r.l.'],IT
+236,Sevici,['JCDecaux'],ES
+237,LonganoinBici,['Comunicare S.r.l.'],IT
+238,Li bia velo,['JCDecaux'],BE
+239,vélOstan'lib,['JCDecaux'],FR
+240,Cristolib,['JCDecaux'],FR
+241,villo,['JCDecaux'],BE
+242,Cassano d'Adda,['Comunicare S.r.l.'],IT
+243,Velo2,['JCDecaux'],FR
+244,Cyclocity,['JCDecaux'],LT
+245,cyclocity,['JCDecaux'],JP
+246,Veli'k,['JCDecaux'],RU
+247,Bianzone in Bici,['Comunicare S.r.l.'],IT
+248,Le vélo,['JCDecaux'],FR
+249,Bicloo,['JCDecaux'],FR
+250,VéloCité,['JCDecaux'],FR
+251,Rietinbici,['Comunicare S.r.l.'],IT
+252,dublinbikes,['JCDecaux'],IE
+253,CityCycle,['JCDecaux'],AU
+254,Bicipalma,,ES
+255,ADCB Bikeshare,['Cyacle Bicycle Rental LLC'],AE
+256,Castellucchio,['Comunicare S.r.l.'],IT
+257,DK'Vélo,['Veolia'],FR
+258,Vélo Bleu,['Veolia'],FR
+259,NotoinBici,['Comunicare S.r.l.'],IT
+260,Enna,['Comunicare S.r.l.'],IT
+261,Pordenone,['Comunicare S.r.l.'],IT
+262,Vélocéa,['Veolia'],FR
+263,Vél'in,['Veolia'],FR
+264,Carbonia,['Comunicare S.r.l.'],IT
+265,Cluj Bike,['Municipiul Cluj-Napoca'],RO
+266,MoBike,['Comunicare S.r.l.'],IT
+267,Integrabike,"['Prefeiture de Sorocaba', 'Urbes']",BR
+268,Scegli in Bici,['Comunicare S.r.l.'],IT
+269,RiviBike,"['Associação dos Amigos da Riviera de São Lourenço', 'Sobloco']",BR
+270,e.motion,['Comunicare S.r.l.'],IT
+271,DukeBike,"['Duke Energy Brasil', 'Governo de Ipaussu']",BR
+272,e.motion,['Comunicare S.r.l.'],IT
+273,Bicing,"['Barcelona de Serveis Municipals, S.A. (BSM)', 'CESPA', 'PBSC']",ES
+274,Baksi,['Baksi Bike Sharing System'],TR
+275,Baksi,['Baksi Bike Sharing System'],TR
+276,e.motion,['Comunicare S.r.l.'],IT
+277,Isbike,['Baksi Bike Sharing System'],TR
+278,Baksi,['Baksi Bike Sharing System'],TR
+279,Citybike Wien,['Gewista Werbegesellschaft m.b.H'],AT
+280,City bikes,"['Helsinki City Transport', 'Helsinki Regional Transport', 'CityBikeFinland', 'Smoove SAS', 'Moventia', 'Alepa']",FI
+281,Monopoli BIKE,['Comunicare S.r.l.'],IT
+282,Föli-fillari,"['Turku Region Traffic Föli', 'Nextbike Polska']",FI
+283,Bicileon,['ITCL'],ES
+284,BiciMia,['Comunicare S.r.l.'],IT
+285,Tel-O-Fun,['FSM Ground Services Ltd.'],IL
+286,Andria in Bici,['Comunicare S.r.l.'],IT
+287,WhiteBikes,['Open Source Bike Share'],SK
+288,Slovnaft BAjk,"['Dopravný podnik Bratislava', 'Bratislavská integrovaná doprava, a.s.', 'Hlavné mesto SR Bratislava']",SK
+289,Cykl,['Open Source Bike Share'],NL
+290,Bicykle za dobré skutky,['Open Source Bike Share'],SK
+291,Wavelo,['Social Bicycles Inc.'],PL
+292,BicinQuartucciu,['Comunicare S.r.l.'],IT
+293,MVGmeinrad,['Mainzer Verkehrsgesellschaft mbH (MVG)'],DE
+294,EnCicla,['Sistema de Bicicletas Públicas del Valle de Aburrá'],CO
+295,Olbia Bike,['Comunicare S.r.l.'],IT
+296,Mobi,"['Vanncouver Bike Share Inc', 'CycleHop LLC', 'City of Vancouver', 'Smoove SAS']",CA
+297,Savona,['Comunicare S.r.l.'],IT
+298,C.Vélo,['Smoove'],FR
+299,VéliVert,['Smoove'],FR
+300,BrindisiByBike,['Comunicare S.r.l.'],IT
+301,Vélopop,['Smoove'],FR
+302,Batumvelo,['Smoove'],GE
+303,Tradate,['Comunicare S.r.l.'],IT
+304,BikeBH,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+305,BikePetrolina,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+306,JesinBici,['Comunicare S.r.l.'],IT
+307,nbici,['Comunicare S.r.l.'],ES
+308,BikeBrasilia,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+309,GynDebike,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+310,Treviso,['Comunicare S.r.l.'],IT
+311,Bicicletar,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+312,CajuBike,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+313,Bike Belém,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+314,Sondrio,['Comunicare S.r.l.'],IT
+315,BikeSantos,"['Mobilicidade Tecnologia LTD', 'Grupo Serttel LTDA']",BR
+316,Vercelli,['Comunicare S.r.l.'],IT
+317,Portofino Park and Bike,['Comunicare S.r.l.'],IT
+318,Mi bici tu bici,"['Mobilicidade Tecnologia LTD', 'Municipalidad de Rosario']",AR
+319,Citi Bike Miami,['DecoBike LLC'],US
+320,Decobike San Diego,['DecoBike LLC'],US
+321,Meglio in Bici,['Comunicare S.r.l.'],IT
+322,Battle Creek B-cycle,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",US
+323,Des Moines B-cycle,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",US
+324,Comunità Montana Valli dell'Ossola,['Comunicare S.r.l.'],IT
+325,Greenville B-cycle,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",US
+326,Bicincittà,['Comunicare S.r.l.'],IT
+327,Nashville B-cycle,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",US
+328,Bicincittà,['Comunicare S.r.l.'],CH
+329,Columbia County B-cycle,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",US
+330,Bicincittà,['Comunicare S.r.l.'],IT
+331,CAT Bike,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",US
+332,Bicincittà,['Comunicare S.r.l.'],IT
+333,Rapid City B-cycle,"['Trek Bicycle Corporation', 'Humana', 'Crispin Porter + Bogusky']",US
+334,Bicincittà,['Comunicare S.r.l.'],CH
+335,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+336,Bicincittà,['Comunicare S.r.l.'],IT
+337,Bicincittà,['Comunicare S.r.l.'],IT
+338,Bicincittà,['Comunicare S.r.l.'],IT
+339,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+340,Bicincittà,['Comunicare S.r.l.'],IT
+341,Bicincittà,['Comunicare S.r.l.'],IT
+342,Parkinbici,['Comunicare S.r.l.'],IT
+343,Bicincittà,['Comunicare S.r.l.'],IT
+344,Bicincittà,['Comunicare S.r.l.'],IT
+345,Bicincittà,['Comunicare S.r.l.'],IT
+346,Bicincittà,['Comunicare S.r.l.'],CH
+347,Mi Muovo in bici,['Comunicare S.r.l.'],IT
+348,Bicincittà,['Comunicare S.r.l.'],IT
+349,Bicincittà,['Comunicare S.r.l.'],CH
+350,Bicincittà,['Comunicare S.r.l.'],CH
+351,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+352,Bicincittà,['Comunicare S.r.l.'],IT
+353,Bicincittà,['Comunicare S.r.l.'],ME
+354,Bicincittà,['Comunicare S.r.l.'],IT
+355,We Love bike,['Comunicare S.r.l.'],IT
+356,Bicincittà,['Comunicare S.r.l.'],IT
+357,Bicincittà,['Comunicare S.r.l.'],IT
+358,Bicincittà,['Comunicare S.r.l.'],IT
+359,Bicincittà,['Comunicare S.r.l.'],IT
+360,Bicincittà,['Comunicare S.r.l.'],IT
+361,Bicincittà,['Comunicare S.r.l.'],IT
+362,Bicincittà,['Comunicare S.r.l.'],CH
+363,Bicincittà,['Comunicare S.r.l.'],IT
+364,Bicincittà,['Comunicare S.r.l.'],CH
+365,Bicincittà,['Comunicare S.r.l.'],IT
+366,Bicincittà,['Comunicare S.r.l.'],IT
+367,Bicincittà,['Comunicare S.r.l.'],CH
+368,Bicincittà,['Comunicare S.r.l.'],IT
+369,Mi Muovo in bici,['Comunicare S.r.l.'],IT
+370,Bicincittà,['Comunicare S.r.l.'],CH
+371,Bicincittà,['Comunicare S.r.l.'],IT
+372,Bicincittà,['Comunicare S.r.l.'],IT
+373,Mi Muovo in Bici,['Comunicare S.r.l.'],IT
+374,Bicincittà,['Comunicare S.r.l.'],IT
+375,Bicincittà,['Comunicare S.r.l.'],IT
+376,Bicincittà,['Comunicare S.r.l.'],IT
+377,Bicincittà,['Comunicare S.r.l.'],CH
+378,Bicincittà,['Comunicare S.r.l.'],IT
+379,BiciSchio,['Comunicare S.r.l.'],IT
+380,Mi Muovo in bici,['Comunicare S.r.l.'],IT
+381,Nextbike,['Nextbike GmbH'],DE
+382,NorisBike,['Nextbike GmbH'],DE
+383,Nextbike,['Nextbike GmbH'],DE
+384,VISA,['Nextbike GmbH'],DE
+385,KVB Rad,['Nextbike GmbH'],DE
+386,Fächerrad,['Nextbike GmbH'],DE
+387,Burgenland,['Nextbike GmbH'],AT
+388,Nextbike,['Nextbike GmbH'],DE
+389,Nextbike,['Nextbike GmbH'],NZ
+390,Nextbike,['Nextbike GmbH'],DE
+391,Nextbike,['Nextbike GmbH'],DE
+392,Nextbike,['Nextbike GmbH'],DE
+393,Nextbike,['Nextbike GmbH'],AT
+394,Nextbike,['Nextbike GmbH'],AT
+395,Nextbike,['Nextbike GmbH'],CH
+396,Nextbike,['Nextbike GmbH'],DE
+397,Nextbike,['Nextbike GmbH'],CH
+398,SiXT,['Nextbike GmbH'],LV
+399,metropolradruhr,['Nextbike GmbH'],DE
+400,metropolradruhr,['Nextbike GmbH'],DE
+401,metropolradruhr,['Nextbike GmbH'],DE
+402,metropolradruhr,['Nextbike GmbH'],DE
+403,metropolradruhr,['Nextbike GmbH'],DE
+404,metropolradruhr,['Nextbike GmbH'],DE
+405,metropolradruhr,['Nextbike GmbH'],DE
+406,metropolradruhr,['Nextbike GmbH'],DE
+407,metropolradruhr,['Nextbike GmbH'],DE
+408,metropolradruhr,['Nextbike GmbH'],DE
+409,Nextbike,['Nextbike GmbH'],DE
+410,SiXT,['Nextbike GmbH'],LV
+411,Nextbike,['Nextbike GmbH'],AT
+412,Nextbike,['Nextbike GmbH'],AT
+413,Nextbike,['Nextbike GmbH'],AT
+414,Nextbike,['Nextbike GmbH'],AT
+415,Nextbike,['Nextbike GmbH'],DE
+416,WRM,['Nextbike GmbH'],PL
+417,Nextbike,['Nextbike GmbH'],AT
+418,Nextbike,['Nextbike GmbH'],DE
+419,Nextbike,['Nextbike GmbH'],AT
+420,Nextbike,['Nextbike GmbH'],DE
+421,Nextbike,['Nextbike GmbH'],DE
+422,Nextbike,['Nextbike GmbH'],AT
+423,Nextbike,['Nextbike GmbH'],AT
+424,Nextbike,['Nextbike GmbH'],AT
+425,Nextbike,['Nextbike GmbH'],AT
+426,UsedomRad,['Nextbike GmbH'],DE
+427,Nextbike,['Nextbike GmbH'],DE
+428,SWA Rad,['Nextbike GmbH'],DE
+429,Nextbike,['Nextbike GmbH'],AT
+430,Nextbike,['Nextbike GmbH'],AT
+431,Nextbike,['Nextbike GmbH'],TR
+432,Nextbike,['Nextbike GmbH'],AT
+433,Nextbike,['Nextbike GmbH'],AT
+434,Nextbike,['Nextbike GmbH'],CY
+435,PRM,['Nextbike GmbH'],PL
+436,Nextbike,['Nextbike GmbH'],NZ
+437,VRN,['Nextbike GmbH'],DE
+438,VRN,['Nextbike GmbH'],DE
+439,Nextbike,['Nextbike GmbH'],AT
+440,Stadtrad,['Nextbike GmbH'],AT
+441,Nextbike,['Nextbike GmbH'],CY
+442,Opole Bike,['Nextbike GmbH'],PL
+443,VETURILO,['Nextbike GmbH'],PL
+444,Nextbike,['Nextbike GmbH'],AT
+445,Nextbike,['Nextbike GmbH'],AT
+446,Nextbike,['Nextbike GmbH'],BG
+447,BYKYstations UAE,['Nextbike GmbH'],AE
+448,Nextbike,['Nextbike GmbH'],HR
+449,ebikestation,['Nextbike GmbH'],DE
+450,Nextbike,['Nextbike GmbH'],GB
+451,Nextbike,['Nextbike GmbH'],GB
+452,BelfastBikes,['Nextbike GmbH'],GB
+453,Nextbike,['Nextbike GmbH'],GB
+454,BIKER Białystok,['Nextbike GmbH'],PL
+455,KRM Konstanciński,['Nextbike GmbH'],PL
+456,Grad Šibenik,['Nextbike GmbH'],HR
+457,KARBIS,['Nextbike GmbH'],TR
+458,LRM Lublin,['Nextbike GmbH'],PL
+459,ebikestation,['Nextbike GmbH'],DE
+460,Healthy Ride,['Nextbike GmbH'],US
+461,GRM Grodzisk,['Nextbike GmbH'],PL
+462,Nextbike,['Nextbike GmbH'],DE
+463,JerseyBike,['Nextbike GmbH'],US
+464,JerseyBike,['Nextbike GmbH'],US
+465,iBike,['Nextbike GmbH'],SA
+466,VRN,['Nextbike GmbH'],DE
+467,Nextbike,['Nextbike GmbH'],GB
+468,ebikestation,['Nextbike GmbH'],DE
+469,VRN,['Nextbike GmbH'],DE
+470,Nextbike,['Nextbike GmbH'],UA
+471,Nextbike,['Nextbike GmbH'],DE
+472,Skybike,['Nextbike GmbH'],US
+473,Nextbike,['Nextbike GmbH'],AT
+474,ebikestation,['Nextbike GmbH'],DE
+475,ebikestation,['Nextbike GmbH'],DE
+476,ebikestation,['Nextbike GmbH'],DE
+477,ebikestation,['Nextbike GmbH'],DE
+478,Grad Gospić,['Nextbike GmbH'],HR
+479,ebikestation,['Nextbike GmbH'],DE
+480,ebikestation,['Nextbike GmbH'],DE
+481,ebikestation,['Nextbike GmbH'],DE
+482,ebikestation,['Nextbike GmbH'],DE
+483,ebikestation,['Nextbike GmbH'],DE
+484,ebikestation,['Nextbike GmbH'],DE
+485,Nextbike,['Nextbike GmbH'],MT
+486,Grad Karlovac,['Nextbike GmbH'],HR
+487,Flashfleet Kent State University,['Nextbike GmbH'],US
+488,Grad Slavonski Brod,['Nextbike GmbH'],HR
+489,Nextbike,['Nextbike GmbH'],GB
+490,Santander Cycles MK,['Nextbike GmbH'],GB
+491,BYKYstations UAE,['Nextbike GmbH'],AE
+492,Nextbike,['Nextbike GmbH'],CH
+493,Grad Makarska,['Nextbike GmbH'],HR
+494,Općina Brinje,['Nextbike GmbH'],HR
+495,Grad Zadar,['Nextbike GmbH'],HR
+496,Nextbike,['Nextbike GmbH'],HR
+497,Općina Lastovo,['Nextbike GmbH'],HR
+498,Łódzki Rower Publiczny,['Nextbike GmbH'],PL
+499,LRM Lublin,['Nextbike GmbH'],PL
+500,VRN,['Nextbike GmbH'],DE
+501,Grad Ivanić-Grad,['Nextbike GmbH'],HR
+502,Stalowa Wola miasto rowerów,['Nextbike GmbH'],PL
+503,Katowice Bike,['Nextbike GmbH'],PL
+504,Bike_S SRM,['Nextbike GmbH'],PL
+505,Ordu Bisikletli,['Nextbike GmbH'],TR
+506,Nextbike,['Nextbike GmbH'],BA
+507,Co-bikes,['Nextbike GmbH'],GB
+508,Rower Gminny Michałowice,['Nextbike GmbH'],PL
+509,Nextbike,['Nextbike GmbH'],NZ
+510,Nextbike,['Nextbike GmbH'],DE
+511,System Legnicki Rower Miejski (SLRM),['Nextbike GmbH'],PL
+512,Nextbike,['Nextbike GmbH'],AW
+513,Nextbike,['Nextbike GmbH'],IN
+514,SIXT jalgrattarent,['Nextbike GmbH'],EE
+515,Stacje Sponsorskie Nextbike Veturilo,['Nextbike GmbH'],PL
+516,bike4all,['Nextbike GmbH'],LB
+517,Chartered Bike,['Nextbike GmbH'],IN
+518,Nextbike,['Nextbike GmbH'],IN
+519,WK-Bike,['Nextbike GmbH'],DE
+520,VRN,['Nextbike GmbH'],DE
+521,Nextbike,['Nextbike GmbH'],CH
+522,Nextbike,['Nextbike GmbH'],CA
+523,Nextbike,['Nextbike GmbH'],NL
+524,Nextbike,['Nextbike GmbH'],CH
+525,BYKY Bikes,['Nextbike GmbH'],KW
+526,Nextbike,['Nextbike GmbH'],CH
+527,VRN,['Nextbike GmbH'],DE
+528,Gliwicki Rower Miejski (SGRM),['Nextbike GmbH'],PL
+529,Stacje Sponsorskie Nextbike PRM,['Nextbike GmbH'],PL
+530,Nextbike,['Nextbike GmbH'],AT
+531,Nextbike,['Nextbike GmbH'],AT
+532,VRN,['Nextbike GmbH'],DE
+533,Radomski Rower Miejski,['Nextbike GmbH'],PL
+534,Stacje Sponsorskie Radom,['Nextbike GmbH'],PL
+535,Smartbike Vijayawada,['Nextbike GmbH'],IN
+536,Sitycleta,['Nextbike GmbH'],ES
+537,System Rowerów Miejskich w Pszczynie,['Nextbike GmbH'],PL
+538,Zgierski Rower Miejski,['Nextbike GmbH'],PL
+539,Tyski Rower Miejski,['Nextbike GmbH'],PL
+540,Nextbike,['Nextbike GmbH'],AT
+541,Grad Velika Gorica,['Nextbike GmbH'],HR
+542,Grad Sisak,['Nextbike GmbH'],HR
+543,Nextbike,['Nextbike GmbH'],AT
+544,OK Bike,['Nextbike GmbH'],PL
+545,Kołobrzeski Rower Miejski,['Nextbike GmbH'],PL
+546,Siedlecki Rower Miejski,['Nextbike GmbH'],PL
+547,Grad Metković,['Nextbike GmbH'],HR
+548,Nextbike,['Nextbike GmbH'],HR
+549,Nextbike,['Nextbike GmbH'],HR
+550,Nextbike,['Nextbike GmbH'],BA
+551,Nextbike,['Nextbike GmbH'],IN
+552,Porec bike share,['Nextbike GmbH'],HR
+553,Arriva,['Nextbike GmbH'],SK
+554,Kaliski Rower Miejski,['Nextbike GmbH'],PL
+555,Nextbike,['Nextbike GmbH'],DE
+556,MOL Bubi,['Nextbike GmbH'],HU
+557,Nextbike,['Nextbike GmbH'],DE
+558,Pruszkowski Rower Miejski,['Nextbike GmbH'],PL
+559,Rower Miejski Szamotuły,['Nextbike GmbH'],PL
+560,Nextbike,['Nextbike GmbH'],NL
+561,VRN,['Nextbike GmbH'],DE
+562,Częstochowski Rower Miejski,['Nextbike GmbH'],PL
+563,Rower Miejski w Ostrowie Wielkopolskim,['Nextbike GmbH'],PL
+564,JerseyBike,['Nextbike GmbH'],US
+565,JerseyBike,['Nextbike GmbH'],US
+566,JerseyBike,['Nextbike GmbH'],US
+567,Dundee-Navigogo,['Nextbike GmbH'],GB
+568,Piaseczyński Rower Miejski,['Nextbike GmbH'],PL
+569,Nextbike,['Nextbike GmbH'],DE
+570,Nextbike,['Nextbike GmbH'],CH
+571,Nextbike,['Nextbike GmbH'],CH
+572,Nextbike,['Nextbike GmbH'],CH
+573,JerseyBike,['Nextbike GmbH'],US
+574,Nextbike,['Nextbike GmbH'],DE
+575,VRN,['Nextbike GmbH'],DE
+576,BIKER Białystok - Orlen,['Nextbike GmbH'],PL
+577,LRM Lublin - Orlen,['Nextbike GmbH'],PL
+578,WRM - Orlen,['Nextbike GmbH'],PL
+579,Łódzki Rower Publiczny - Orlen,['Nextbike GmbH'],PL
+580,Katowice Bike - Orlen,['Nextbike GmbH'],PL
+581,VETURILO - Orlen,['Nextbike GmbH'],PL
+582,Nextbike,['Nextbike GmbH'],GB
+583,VRN,['Nextbike GmbH'],DE
+584,VRN,['Nextbike GmbH'],DE
+585,Nextbike,['Nextbike GmbH'],CH
+586,VRN,['Nextbike GmbH'],DE
+587,Nextbike,['Nextbike GmbH'],GB
+588,Santander Cycles,['Nextbike GmbH'],GB
+589,Nextbike,['Nextbike GmbH'],CH
+590,Nextbike,['Nextbike GmbH'],DE
+591,BL bike,['Nextbike GmbH'],BA
+592,Koszaliński Rower Miejski,['Nextbike GmbH'],PL
+593,Sosnowiecki Rower Miejski,['Nextbike GmbH'],PL
+594,Zabrzański Rower Miejski,['Nextbike GmbH'],PL
+595,JerseyBike,['Nextbike GmbH'],US
+596,Chartered Bike,['Nextbike GmbH'],IN
+597,Pobiedziski Rower Gminny,['Nextbike GmbH'],PL
+598,Nextbike,['Nextbike GmbH'],DE
+599,Berlin-Buch Campus,['Nextbike GmbH'],DE
+600,System Rowerów Miejskich Jastrzębie Zdrój,['Nextbike GmbH'],PL
+601,Smartbike Delhi,['Nextbike GmbH'],IN
+602,Nextbike,['Nextbike GmbH'],PL
+603,Piotrkowski Rower Miejski,['Nextbike GmbH'],PL
+604,Siemianowicki Rower Miejski,['Nextbike GmbH'],PL
+605,Nextbike,['Nextbike GmbH'],DE
+606,Płocki Rower Miejski,['Nextbike GmbH'],PL
+607,Nextbike,['Nextbike GmbH'],UA
+608,Ciechanowski Rower Miejski,['Nextbike GmbH'],PL
+609,Nextbike,['Nextbike GmbH'],UA
+610,Otwocki Rower Miejski,['Nextbike GmbH'],PL
+611,Tychowski Rower Miejski,['Nextbike GmbH'],PL
+612,Zielonogórski Rower Miejski,['Nextbike GmbH'],PL
+613,Santander Mönchengladbach,['Nextbike GmbH'],DE
+614,NomagoBikes,['Nextbike GmbH'],SI
+615,BilbonBizi,['Nextbike GmbH'],ES
+616,Atrakcje turystyczne Tychowo,['Nextbike GmbH'],PL
+617,NomagoBikes,['Nextbike GmbH'],SI
+618,Nextbike,['Nextbike GmbH'],DE
+619,BikeKia,['Nextbike GmbH'],SK
+620,Koniński Rower Miejski,['Nextbike GmbH'],PL
+621,Nextbike,['Nextbike GmbH'],UA
+622,Nextbike,['Nextbike GmbH'],DE
+623,Tarnowski Rower Miejski,['Nextbike GmbH'],PL
+624,Koło Marek,['Nextbike GmbH'],PL
+625,Żyrardowski Rower Miejski,['Nextbike GmbH'],PL
+626,Kajteroz - Chorzowski Rower Miejski,['Nextbike GmbH'],PL
+627,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+628,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+629,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+630,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+631,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+632,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+633,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+634,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+635,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+636,Rowerowe Łódzkie,['Nextbike GmbH'],PL
+637,Nextbike,['Nextbike GmbH'],UA
+638,Nextbike,['Nextbike GmbH'],DE
+639,Nextbike,['Nextbike GmbH'],DE
+640,Frelo,['Nextbike GmbH'],DE
+641,BiTS,['Comunicare S.r.l.'],IT
+642,MOBIbike,['Nextbike GmbH'],DE
+643,Velobike,['ЗАО «СитиБайк»'],RU
+644,Velobike,['ЗАО «СитиБайк»'],RU
+645,Nextbike,['Nextbike GmbH'],UA

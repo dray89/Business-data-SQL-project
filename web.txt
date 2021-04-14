@@ -1,0 +1,3 @@
+Tags are JavaScript code that are used to collect information about website visitors. This information is normally shared with third party advertising servers which use that data and other data about the users to change advertising content. 
+
+Web events are website interactions or mobile application interactions. Websites can track many things with events like file downloads and content shares.
